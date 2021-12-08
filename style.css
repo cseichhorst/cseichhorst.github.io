@@ -10,7 +10,7 @@ header{
 header img {
     height: 50px;
     flex: 1;
-    margin: 0;
+    margin: 0 auto;
 
 }
 header div { 
