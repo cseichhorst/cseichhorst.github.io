@@ -8,7 +8,7 @@ header{
     display: flex;
 }
 header img {
-    height: 50px;
+    height: 50%;
     flex: 1;
     margin: auto;
 
