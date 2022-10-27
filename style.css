@@ -33,6 +33,15 @@ header img {
 	float: left;
 	margin-right: 1rem;
 }
+.picture a:link{
+	color: #3E768C;
+}
+.picture a:visited{
+	color: #195D46;
+}
+.picture a:hover{
+	color: #0F4D64;
+}
 h1{
 	color:  #black;
 	font-family:  'Martel', serif;
@@ -62,9 +71,6 @@ p{
 }
 .box a:visited{
 	color: #DADED0;
-}
-.box a:focus{
-	color: black;
 }
 .box a:hover{
 	color: darkgreen;
